@@ -1,0 +1,1 @@
+<?php session_start(); echo 'Login Page (to be styled)'; ?>

@@ -1,0 +1,1 @@
+<?php echo 'General Settings Page'; ?>

@@ -1,0 +1,1 @@
+<?php echo 'Product Management Page'; ?>
